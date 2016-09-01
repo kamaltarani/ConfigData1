@@ -41,3 +41,7 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 wordConfig:
  data: Hi From Pradeep
  newData: Spring CLoud Bus is working
+ 
+---
+newConfig:
+  data: Some value
